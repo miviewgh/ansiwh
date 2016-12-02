@@ -1,4 +1,4 @@
-- name: Cisco ASA fw-web-dns access-list 
+- name: Cisco ASA fw-web-dns acl
   connection: local
   hosts: firewall
   gather_facts: false
